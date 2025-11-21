@@ -461,38 +461,5 @@ Em caso de emergência, o sistema recomenda:
 
 ---
 
-## 🤝 Contribuindo
 
-Contribuições são bem-vindas! Para contribuir:
 
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## 📧 Contato
-
-- 📧 **Email:** lyra.suporte@exemplo.com
-- 💼 **LinkedIn:** [Lyra Project](https://linkedin.com/company/lyra)
-- 🐦 **Twitter:** [@LyraProject](https://twitter.com/lyraproject)
-
----
-
-<div align="center">
-
-**Desenvolvido com ❤️ pela equipe Lyra**
-
-[![FIAP](https://img.shields.io/badge/FIAP-2TDSB-red?style=for-the-badge)](https://www.fiap.com.br/)
-
-**2025 - Todos os direitos reservados**
-
-</div>
