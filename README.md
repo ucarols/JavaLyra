@@ -17,6 +17,7 @@ O objetivo do Lyra é oferecer um apoio **rápido, acessível e acolhedor** para
 ### 📹 Vídeos
 
 **[Video Pitch](https://youtu.be/wgGoX74THr0?si=ZcIJOhYXlemUCCgA)**
+
 **[Video Demonstraçao da Aplicaçao](https://youtube.com/shorts/NnNIxhkZLLQ?si=mGLdyrWPQKvp8eBb)**
 
 ### 🌐 Deploy da API
