@@ -1,10 +1,20 @@
-HELP.md
+# macOS
+.DS_Store
+
+# Build / Maven
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+.mvn/
+mvnw
+mvnw.cmd
 
-### STS ###
+# IDEs
+.idea
+*.iws
+*.iml
+*.ipr
 .apt_generated
 .classpath
 .factorypath
@@ -12,14 +22,42 @@ target/
 .settings
 .springBeans
 .sts4-cache
+.vscode/
 
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
+# Docker
+docker-compose.override.yml
+docker-data/
+logs/
+temp/
 
-### NetBeans ###
+# Spring Boot – arquivos sensíveis
+*.log
+*.bak
+application.properties
+application-dev.properties
+application-prod.properties
+application-*.yml
+application-*.properties
+.env
+.env.*
+
+# Test / temporários
+*.db
+*.sqlite
+*.tmp
+*.swp
+*.pid
+*.seed
+*.cache
+*.java~
+*.class
+
+# Compilação / empacotamento
+*.jar
+*.war
+*.ear
+
+# NetBeans
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -28,6 +66,3 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-
-### VS Code ###
-.vscode/
